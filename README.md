@@ -1,5 +1,5 @@
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-# Date: 19/03/2024
+### Register No: 212221240043
 
 
 
